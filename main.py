@@ -16,7 +16,7 @@ def menu():
     print("2. Mostrar viajes")
     print("3. Mostrar resumen")
     print("4. Salir")
-
+# registros de viajes nuevos aunque creo que son redundantes porque ya estan en registro.py XD
 def main():
     registro = RegistroViajes()
 
